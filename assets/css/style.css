@@ -407,6 +407,9 @@ align-items: flex-start;
 /* Tablet and below */
 @media only screen and (max-width: 1023px){
   .r20m{right: 20px;}
+  .button-href, .flip-button-href, button{
+  width: 150px;
+}
 }
 
 @media only screen and (max-width: 767px){
